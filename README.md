@@ -1,9 +1,10 @@
 # entorno-desarrollo
 
-**Nombre** Sergio Martinez Aramburu
+**Nombre** (Sergio Martinez Aramburu)
 **Fecha** (07/11/2025)
 
 **Extensiones Instaladas**
+
 - GitHub Copilot
 - Auto Rename Tag
 - Color Highlight
@@ -15,3 +16,5 @@
 - One Dark Pro
 - Prettier - Code formatter
 - Symbols
+- otras
+- y otras
